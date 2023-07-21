@@ -1,2 +1,11 @@
-# RTAG
-Bot Amankan Akun Instagram Satuan / Masal
+Download Aplikasi Termux [Disini](https://f-droid.org/repo/com.termux_118.apk)
+
+### Cara Install
+ ```
+ $ pkg install python git 
+ $ git clone https://github.com/RozhBasXYZ/RTAG
+ $ cd RTAG
+ $ pip install -r requirements.txt
+ $ python build.py
+ $ python run.py
+ ```
